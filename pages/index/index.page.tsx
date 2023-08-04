@@ -17,6 +17,6 @@ function Page() {
   );
 }
 
-export const meta = {
-  title: "this is a custom title",
+export const documentProps = {
+  title: "wat",
 };
